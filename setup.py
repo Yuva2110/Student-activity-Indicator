@@ -22,6 +22,7 @@ setup(
     name='mlProject',
     author='Yuva',
     author_email='yuvakumar2110@gmail.com',
+    version='0.0.1',
     packages=find_packages(),
     #might not be feasible for some projects might require many pakages
     # install_requires=['numpy','panda','seaborn']
