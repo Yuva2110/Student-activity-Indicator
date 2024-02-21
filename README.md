@@ -34,4 +34,4 @@ step by step
   git add .
   git status
   git commit -m "Logging and exception"
-  
+  git push -u origin main
