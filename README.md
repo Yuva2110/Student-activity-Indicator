@@ -1,6 +1,6 @@
 ## This is END to END Machine Learning Project
 
-step by step 
+step by step As learning to sink with github from VS code
 
 ```git init
    git create README.md
